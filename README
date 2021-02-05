@@ -1,0 +1,12 @@
+
+Respecto a la ejecución del archivo "discos.c", dado que fue probado en 
+una virtual machine (ubuntu-linux) con baja capacidad de memoria, este solo
+pudo ser probado efectivamente con el archivo de prueba "prueba2.cvs" (tamaño 1000),
+dado que en otros casos (archivos de tamaño 100000) la ejecusion tras esperar durante un largo
+periodo, finalizaba repentinamente con el mensaje "Terminado (killed) ".
+Por esta razón las prueba y revisiones fueron limitadas, no pudiendo verificar su eficacia 
+para todos los casos.
+
+
+Video con testimonio de error
+https://drive.google.com/file/d/18OF2oTlcdaMR5a3AMVYdE2vm2Tmt5ue_/view?usp=sharing
